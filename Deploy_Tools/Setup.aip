@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<DOCUMENT Type="Advanced Installer" CreateVersion="14.0.2" version="18.6" Modules="architect" Language="en" Id="{01263E78-59FF-4C92-B2CD-1ECF10554776}">
+<DOCUMENT Type="Advanced Installer" CreateVersion="14.0.2" version="18.6" Modules="architect" RootPath=".*" Language="en" Id="{01263E78-59FF-4C92-B2CD-1ECF10554776}">
   <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
     <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
     <ROW Property="AI_COLOR_DISABLED_TEXT" Value="3026478" MultiBuildValue="DefaultBuild:15461355" MsiKey="AI_COLOR_DISABLED_TEXT"/>
@@ -422,7 +422,7 @@
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.CacheComponent">
     <ATTRIBUTE name="CacheIndex" value="Setup.txt"/>
-    <ATTRIBUTE name="Folder" value="E:\CLOUDCODE\Github\dhg.hospitaladmin\Deploy_Tools\Setup.aip.cache"/>
+    <ATTRIBUTE name="Folder" value="Setup.aip.cache"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
     <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
@@ -838,7 +838,7 @@
     <ROW Feature_="MainFeature" Component_="OTH.PAY.SHB.Apis.dll"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
-    <ROW Name="Logo_1.exe" SourcePath="E:\CLOUDCODE\Github\dhg.hospitaladmin\Deploy_Tools\Logo.ico" Index="0"/>
+    <ROW Name="Logo_1.exe" SourcePath="Logo.ico" Index="0"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
     <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
