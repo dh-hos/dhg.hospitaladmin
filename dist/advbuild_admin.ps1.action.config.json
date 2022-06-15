@@ -168,7 +168,6 @@
       "OTH.XControl.dll",
       "OTH.XForms.dll",
       "OTH.XReports.dll",
-      "OTHDrive.dll",
       "Pre.DoiSoat.dll",
       "OTH.UpdaterNet.dll",
       "OTH.HosBackup.exe",
@@ -197,7 +196,15 @@
       "OTH.PAY.ViettinBank.Apis.Leasedline.dll",
       "OTH.PAY.ViettinBank.PrintPan.dll",
       "OTH.PAY.SHB.Apis.dll",
-      "RestSharp.dll"
+      "RestSharp.dll",
+      "Google.Apis.Auth.dll",
+      "Google.Apis.Auth.PlatformServices.dll",
+      "Google.Apis.Core.dll",
+      "Google.Apis.dll",
+      "Google.Apis.Drive.v3.dll",
+      "Google.Apis.PlatformServices.dll",
+      "System.Net.Http.dll",
+      "System.Net.Http.Formatting.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
