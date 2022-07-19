@@ -7,3 +7,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/17 [OK]
 -  🐛: Lỗi khi Tạo lập bộ bảng lưu trữ cắt bỏ dữ liệu trực tiếp qua cơ sở dữ liệu khác (Admin -> tiện ích -> Cắt bỏ dữ liệu ra CSDL lưu trữ -> Kết chuyển dữ liệu trực tiếp -> Tạo lập bộ bảng lưu trữ) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/18 [OK]
+-  ✨: Cập nhật ngày giờ y lệnh trên xml 3 theo mô tả mới [OK]

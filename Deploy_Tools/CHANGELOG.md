@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0719.1]()
+
+-  ✨: Cập nhật ngày giờ y lệnh trên xml 3 theo mô tả mới
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/18
+
 ##### [v3.22.0704.1]()
 
 -  🐛: Lỗi khi Tạo lập bộ bảng lưu trữ cắt bỏ dữ liệu trực tiếp qua cơ sở dữ liệu khác (Admin -> tiện ích -> Cắt bỏ dữ liệu ra CSDL lưu trữ -> Kết chuyển dữ liệu trực tiếp -> Tạo lập bộ bảng lưu trữ)
