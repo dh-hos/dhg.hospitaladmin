@@ -25,3 +25,6 @@
 -  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/files/9553579/Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2.pdf) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/21 [OK]
 -  ✨: Hỗ trợ xóa XML (không có chi phí gửi BHXH) trên bảng kê kiểm tra XML [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/20 [OK]
+-  #️⃣: Fix lỗi không thể xem chi tiết trên form gửi dữ liệu liên thông Dược Quốc Gia ![](../MoTaThayDoi/Errors/error-dqg-xem-chi-tiet.png) [OK]
