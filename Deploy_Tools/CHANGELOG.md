@@ -2,11 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
-##### [v3.22.1023.2]()
+##### [v3.22.1023.3]()
 
--  âœ¨:
--  ðŸ›:
--  #ï¸âƒ£:
+-  ✨: Thực hiện cấu hình kết nối với thẻ khám bệnh viettin
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/22
 
 ##### [v3.22.1023.1]()
 
