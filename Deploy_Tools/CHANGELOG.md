@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1023.1]()
+
+-  ✨: Thực hiện cấu hình kết nối với thẻ khám bệnh viettin
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/22
+
 ##### [v3.22.0930.1]()
 
 -  #️⃣: Fix lỗi không thể xem chi tiết trên form gửi dữ liệu liên thông Dược Quốc Gia ![](../MoTaThayDoi/Errors/error-dqg-xem-chi-tiet.png)

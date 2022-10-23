@@ -28,3 +28,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/20 [OK]
 -  #️⃣: Fix lỗi không thể xem chi tiết trên form gửi dữ liệu liên thông Dược Quốc Gia ![](../MoTaThayDoi/Errors/error-dqg-xem-chi-tiet.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/22 [OK]
+-  ✨: Thực hiện cấu hình kết nối với thẻ khám bệnh viettin [OK]
