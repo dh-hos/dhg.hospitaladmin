@@ -31,3 +31,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/22 [OK]
 -  ✨: Thực hiện cấu hình kết nối với thẻ khám bệnh viettin [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/23 [OK]
+-  🐛: Fix lỗi không theo mô tả [Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2](../MoTaThayDoi/Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2.pdf). Xử lý chỉ cần psdangky.benhnhan_lao = 1 không cần chuẩn đoán Z22.7 sẽ thực hiện xuất xml theo MA_LYDO_VVIEN=7, MA_LOAI_KCB=7 [OK]
