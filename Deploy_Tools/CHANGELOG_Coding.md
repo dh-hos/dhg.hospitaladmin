@@ -42,3 +42,5 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/25 [OK]
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21 [OK]
 
+-  ✨: Cập nhật bản quyền đối với Mã BV 87192; 87196 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/27 [OK]
