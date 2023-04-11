@@ -46,3 +46,6 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/27> [OK]
 
 - ✨: Cập nhật thêm chức năng cấu hình tham số kết nối gửi tin nhắn đối với Vinaphone ![Alt text](../MoTaThayDoi/SMS-OpVina.png) [OK]
+
+- ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87196 - cs2 bv Thanh Bình) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/28> [OK]
