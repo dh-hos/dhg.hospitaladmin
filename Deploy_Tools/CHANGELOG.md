@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0411.1]()
+
+- ✨: Cập nhật thêm chức năng cấu hình tham số kết nối gửi tin nhắn đối với Vinaphone ![Alt text](../MoTaThayDoi/SMS-OpVina.png)
+
 ##### [v3.23.0109.2]()
 
 -  âœ¨:
