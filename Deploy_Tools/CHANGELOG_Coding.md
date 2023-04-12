@@ -49,3 +49,6 @@
 
 - ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87196 - cs2 bv Thanh Bình) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/28> [OK]
+
+- ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87197 - cs2 bv Lấp Vò) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/29> [OK]
