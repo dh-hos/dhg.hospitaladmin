@@ -52,3 +52,6 @@
 
 - ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87197 - cs2 bv Lấp Vò) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/29> [OK]
+
+- ✨: Bổ sung check box để xác định Phẫu thuật thuộc phương pháp vô cảm gây tê, phục vụ cho việc THANH TOÁN PHẪU THUẬT SỬ DỤNG PHƯƠNG PHÁP VÔ CẢM GÂY TÊ. ![Alt text](../MoTaThayDoi/HospitalAdmin-PhauThuatVoCamGayTe.png) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0418.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32>
+- ✨: Bổ sung check box để xác định Phẫu thuật thuộc phương pháp vô cảm gây tê, phục vụ cho việc THANH TOÁN PHẪU THUẬT SỬ DỤNG PHƯƠNG PHÁP VÔ CẢM GÂY TÊ. ![Alt text](../MoTaThayDoi/HospitalAdmin-PhauThuatVoCamGayTe.png)
+
 ##### [v3.23.0412.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/29>
