@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0421.2]()
+
+- 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank v2
+
 ##### [v3.23.0421.1]()
 
 - 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank

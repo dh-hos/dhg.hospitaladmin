@@ -56,4 +56,4 @@
 - ✨: Bổ sung check box để xác định Phẫu thuật thuộc phương pháp vô cảm gây tê, phục vụ cho việc THANH TOÁN PHẪU THUẬT SỬ DỤNG PHƯƠNG PHÁP VÔ CẢM GÂY TÊ. ![Alt text](../MoTaThayDoi/HospitalAdmin-PhauThuatVoCamGayTe.png) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32> [OK]
 
-- 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank [OK]
+- 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank v2 [OK]
