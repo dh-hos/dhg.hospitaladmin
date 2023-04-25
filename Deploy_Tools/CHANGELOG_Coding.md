@@ -57,3 +57,6 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32> [OK]
 
 - 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank v2 [OK]
+>
+- ✨: Hỗ trợ mở rộng độ dài mã máy thực hiện cận lâm sàng [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/35> [OK]

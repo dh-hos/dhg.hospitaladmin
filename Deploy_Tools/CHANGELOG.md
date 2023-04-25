@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0425.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/35>
+- ✨: Hỗ trợ mở rộng độ dài mã máy thực hiện cận lâm sàng
+
 ##### [v3.23.0421.2]()
 
 - 🐛: Fix lỗi gán thẻ khi thanh toán không tiền mặt bằng thẻ Viettinbank v2
