@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0505.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32#issuecomment-1535670102>
+- 🐛: Fix lỗi ghi nhận sai MA_DICH_VU và TEN_DICH_VU đối với thuốc khi có Phẫu thuật phương pháp vô cảm, những trường hợp này giữ nguyên MA_VAT_TU và TEN_VAT_TU.
+
 ##### [v3.23.0505.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32>
