@@ -63,3 +63,6 @@
 >
 - ✨: Bổ sung xuất XML theo [Mô tả Phẫu thuật thuộc phương pháp vô cảm gây tê](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/20230415-Hau-CV1731-BHXH-G%C4%90%C4%90T-Thanh-toan-phau-thuat-vo-cam-gay-te.md) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32> [OK]
+>
+- 🐛: Fix lỗi thiếu "[gây tê]" sau tên vật tư trên XML3 [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32> [OK]
