@@ -69,3 +69,6 @@
 >
 - 🐛: Fix lỗi ghi nhận sai MA_DICH_VU và TEN_DICH_VU đối với thuốc khi có Phẫu thuật phương pháp vô cảm, những trường hợp này giữ nguyên MA_VAT_TU và TEN_VAT_TU. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32#issuecomment-1535670102> [OK]
+>
+- 🐛: Fix lỗi thiếu _GT đối với thuốc sử dụng cho Phẫu thuật phương pháp vô cảm. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32#issuecomment-1535851292> [OK]

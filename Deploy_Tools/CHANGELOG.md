@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0505.4]()
+
+- 🐛: Fix lỗi thiếu _GT đối với thuốc sử dụng cho Phẫu thuật phương pháp vô cảm.
+
 ##### [v3.23.0505.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32#issuecomment-1535670102>
