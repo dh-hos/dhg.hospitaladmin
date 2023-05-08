@@ -72,3 +72,7 @@
 >
 - 🐛: Fix lỗi thiếu _GT đối với thuốc sử dụng cho Phẫu thuật phương pháp vô cảm. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32#issuecomment-1535851292> [OK]
+>
+- ✨: Thực hiện xuất XML3, lấy tất cả mã nhân viên chỉ định và thực hiện cận lâm sàng, ekip phẫu thuật [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/31> [OK]
+- #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md> [OK]
