@@ -85,3 +85,6 @@
 >
 - ✨: Ghi nhận nhật ký thay đổi khi chỉnh hồ sơ Nội trú và ngoại trú [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/24> [OK]
+>
+- ✨: Cập nhật Lisence `77156` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
