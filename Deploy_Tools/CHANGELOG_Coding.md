@@ -97,3 +97,6 @@
 >
 - ✨: Cập nhật Lisence `92117` [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25> [OK]
+>
+- ✨: Bổ sung nhật ký khi thực hiện Tạo hoặc Xóa cấu trúc âm kho [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalsecondstore/issues/9> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0623.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalsecondstore/issues/9>
+- ✨: Bổ sung nhật ký khi thực hiện Tạo hoặc Xóa cấu trúc âm kho
+
 ##### [v3.23.0623.1]()
 
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25>
