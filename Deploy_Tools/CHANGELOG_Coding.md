@@ -100,3 +100,5 @@
 >
 - ✨: Bổ sung nhật ký khi thực hiện Tạo hoặc Xóa cấu trúc âm kho [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalsecondstore/issues/9> [OK]
+>
+- ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001) [OK]
