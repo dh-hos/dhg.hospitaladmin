@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0904.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/44>
+- ✨: Thực hiện Yêu cầu - Gửi cổng giám định, không gửi XML4 những XN không có kết quả. (Loại bỏ những dịch vụ, cls khi gia_tri rỗng)
+
 ##### [v3.23.0810.1]()
 
 - ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001)

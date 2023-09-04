@@ -102,3 +102,6 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalsecondstore/issues/9> [OK]
 >
 - ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001) [OK]
+>
+- ✨: Thực hiện Yêu cầu - Gửi cổng giám định, không gửi XML4 những XN không có kết quả. (Loại bỏ những dịch vụ, cls khi gia_tri rỗng) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/44> [OK]
