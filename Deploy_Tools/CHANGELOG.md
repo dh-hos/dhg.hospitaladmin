@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0911.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/46>
+- 🐛: Fix Lỗi - Dữ liệu đã gửi BHXH lỗi khi lấy dữ liệu
+
 ##### [v3.23.0911.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/47>

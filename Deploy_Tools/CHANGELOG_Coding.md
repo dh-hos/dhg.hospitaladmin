@@ -111,3 +111,6 @@
 >
 - 🐛: Fix Lỗi - Liên thông Dược quốc gia số lượng thuốc lớn hơn kiểu dữ liệu Int16 [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/47> [OK]
+>
+- 🐛: Fix Lỗi - Dữ liệu đã gửi BHXH lỗi khi lấy dữ liệu [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/46> [OK]
