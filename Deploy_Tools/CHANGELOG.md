@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0911.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/47>
+- 🐛: Fix Lỗi - Liên thông Dược quốc gia số lượng thuốc lớn hơn kiểu dữ liệu Int16
+
 ##### [v3.23.0904.3]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63>
