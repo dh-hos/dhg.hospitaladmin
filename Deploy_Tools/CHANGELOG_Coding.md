@@ -114,3 +114,6 @@
 >
 - 🐛: Fix Lỗi - Dữ liệu đã gửi BHXH lỗi khi lấy dữ liệu [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/46> [OK]
+>
+- ✨: Chỉnh thông tin bệnh nhân ngoại trú: bổ sung chức năng nhập lại mã nơi đăng ký ban đầu xác định trái tuyến được hưởng như cùng tuyến. [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/90#issuecomment-1729169695> [OK]
