@@ -117,3 +117,6 @@
 >
 - ✨: Chỉnh thông tin bệnh nhân ngoại trú: bổ sung chức năng nhập lại mã nơi đăng ký ban đầu xác định trái tuyến được hưởng như cùng tuyến. [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/90#issuecomment-1729169695> [OK]
+>
+- ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126> [OK]
