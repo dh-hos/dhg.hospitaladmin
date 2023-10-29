@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1029.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49>
+- ✨: Thêm chức năng gửi checkIn theo QĐ130 lên cổng đào tạo trên form quản lý xuất xml![Alt text](../MoTaThayDoi/HuongDan/QD130/cauhinh-congdaotao.png)![Alt text](../MoTaThayDoi/HuongDan/QD130/gui-checkIn-xml-00.png)![Alt text](../MoTaThayDoi/HuongDan/QD130/gui-checkIn-xml-01.png)
+- 🐛: Fix Lỗi - Hiệu chỉnh thông tin không cập nhật được tuyenxml (`Thay Plus.dll bằng HosReg.Plus.dll`)
+
 ##### [v3.23.1016.4]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126>

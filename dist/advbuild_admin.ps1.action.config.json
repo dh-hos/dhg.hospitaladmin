@@ -134,7 +134,7 @@
       "Microsoft.Office.Interop.Excel.dll",
       "Monitor.dll",
       "Number2String.dll",
-      "Plus.dll",
+      "HosReg.Plus.dll",
       "Pre.Reports.dll",
       "QRCoder.dll",
       "ReportViewer.dll",

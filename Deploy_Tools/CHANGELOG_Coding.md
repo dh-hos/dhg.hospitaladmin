@@ -120,3 +120,7 @@
 >
 - ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126> [OK]
+>
+- 🐛: Fix Lỗi - Hiệu chỉnh thông tin không cập nhật được tuyenxml (`Thay Plus.dll bằng HosReg.Plus.dll`) [OK]
+- ✨: Thêm chức năng gửi checkIn theo QĐ130 lên cổng đào tạo trên form quản lý xuất xml![Alt text](../MoTaThayDoi/HuongDan/QD130/cauhinh-congdaotao.png)![Alt text](../MoTaThayDoi/HuongDan/QD130/gui-checkIn-xml-00.png)![Alt text](../MoTaThayDoi/HuongDan/QD130/gui-checkIn-xml-01.png) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49> [OK]
