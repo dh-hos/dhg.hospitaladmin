@@ -2,9 +2,11 @@
    "Name": "create option for advanced installer build Hospital Admin",
    "PathExecuteVersion": "..\\Deploy_Libraries\\HospitalAdmin.exe",
    "PathAdvancedInstallerCommandFile": "..\\Deploy_Tools\\BuildCommandFile.githubignore.txt",
-   "PathAdvancedInstallerProjectFile": "..\\Deploy_Tools\\Setup.aip",
+   "PathAdvancedInstallerProjectFile": "..\\Deploy_Tools\\Setup20.aip",
+   "PathAdvancedInstallerProjectFile2": "..\\Deploy_Tools\\Setup.aip",
    "PathAdvancedInstallerOutputFolder": "..\\Deploy_Tools\\OutputFiles",
-   "PathAdvancedInstallerExecuter": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 21.1\\bin\\x86\\advinst.exe",
+   "PathAdvancedInstallerExecuter": "C:\\Users\\ongtr\\OneDrive\\Desktop\\Advanced Installer Architect 20.4 Portable\\App\\ProgramFiles\\bin\\x86\\advinst.exe",
+   "PathAdvancedInstallerExecuter3": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 21.1\\bin\\x86\\advinst.exe",
    "PathAdvancedInstallerExecuter2": "C:\\AzureDevOpsBuild\\webhooks\\Adv-19.9-Portable-00\\App\\ProgramFiles\\bin\\x86\\advinst.exe",
    "ProductDetail": {
       "ProductName": "DHG.Hospital Admin",

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1122.2]()
+
+- ✨: Tách ghi nhận log riêng giữa checkIn và hosoKcb ![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb02.png)
+- ✨: Thêm chức năng gửi checkIn theo QĐ130 hồ sơ khám chữa bệnh, cùng chức năng gửi QĐ130![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb01.png)
+
 ##### [v3.23.1122.1]()
 
 - ✨: Thêm chức năng gửi checkIn theo QĐ130 hồ sơ khám chữa bệnh
