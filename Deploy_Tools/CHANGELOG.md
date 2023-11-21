@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1122.1]()
+
+- ✨: Thêm chức năng gửi checkIn theo QĐ130 hồ sơ khám chữa bệnh
+
 ##### [v3.23.1029.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49>
