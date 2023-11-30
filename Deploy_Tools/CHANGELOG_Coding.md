@@ -127,3 +127,6 @@
 >
 - ✨: Thêm chức năng gửi checkIn theo QĐ130 hồ sơ khám chữa bệnh, cùng chức năng gửi QĐ130![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb01.png) [OK]
 - ✨: Tách ghi nhận log riêng giữa checkIn và hosoKcb ![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb02.png) [OK]
+>
+- ✨: Thêm chức năng phân loại chi phí nội bộ trên danh mục cận lâm sàng [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/FEES/Hau-quan-ly-loai-chi-phi-noi-bo.md) [OK]
+![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-00.png)![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-01.png)

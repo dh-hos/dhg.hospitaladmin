@@ -26,12 +26,12 @@
     <ROW Property="ARPSYSTEMCOMPONENT" Value="1"/>
     <ROW Property="ARPURLINFOABOUT" Value="https://github.com/o-static"/>
     <ROW Property="ARPURLUPDATEINFO" Value="https://github.com/o-static"/>
-    <ROW Property="ExecuteVersion" Value="3.23.1122.1"/>
+    <ROW Property="ExecuteVersion" Value="3.23.1122.2"/>
     <ROW Property="Manufacturer" Value="DHG Pharma"/>
-    <ROW Property="ProductCode" Value="1033:{F94A40CD-B0CF-48EB-B608-753CD78CB3DB} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{767A8DC8-53A4-4426-9348-406F38DE9947} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="DHG.Hospital Admin"/>
-    <ROW Property="ProductVersion" Value="3.23.1122.1"/>
+    <ROW Property="ProductVersion" Value="3.23.1122.2"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND;AI_SETUPEXEPATH;SETUPEXEDIR"/>
     <ROW Property="UpgradeCode" Value="{371D814B-CC69-49AC-89C0-F596A2728BCB}"/>
     <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
@@ -59,7 +59,7 @@
   <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
     <ROW Component="AForge.Video.DirectShow.dll" ComponentId="{556857A4-F30C-4080-B89A-9FC843642B28}" Directory_="APPDIR" Attributes="0" KeyPath="AForge.Video.DirectShow.dll"/>
     <ROW Component="AForge.Video.dll" ComponentId="{09AC633F-FCD4-4CE5-8C94-C1C6A7882369}" Directory_="APPDIR" Attributes="0" KeyPath="AForge.Video.dll"/>
-    <ROW Component="AI_CustomARPName" ComponentId="{0FAEE7CA-084E-4027-8790-EC59B9F7D25C}" Directory_="APPDIR" Attributes="4" KeyPath="DisplayName" Options="1"/>
+    <ROW Component="AI_CustomARPName" ComponentId="{5214B85A-EE51-4717-9086-F7406C26679A}" Directory_="APPDIR" Attributes="4" KeyPath="DisplayName" Options="1"/>
     <ROW Component="AI_ExePath" ComponentId="{AF34FF88-7115-4831-950A-C2D6538801CB}" Directory_="APPDIR" Attributes="4" KeyPath="AI_ExePath"/>
     <ROW Component="APPDIR" ComponentId="{CDBEAEBC-004A-4FDA-8307-336A1383E5DC}" Directory_="APPDIR" Attributes="0"/>
     <ROW Component="Admin.BusinessLogic.dll" ComponentId="{59B9BDBA-FBF1-4A1B-9D2A-841B4FCC800F}" Directory_="APPDIR" Attributes="0" KeyPath="Admin.BusinessLogic.dll"/>
@@ -973,7 +973,7 @@
     <ATTRIBUTE name="UsedTheme" value="surface"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
-    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="769" ActionProperty="OLDPRODUCTS"/>
     <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
   </COMPONENT>
 </DOCUMENT>

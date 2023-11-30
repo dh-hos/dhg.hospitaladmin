@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1130.1]()
+
+- ✨: Thêm chức năng phân loại chi phí nội bộ trên danh mục cận lâm sàng [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/FEES/Hau-quan-ly-loai-chi-phi-noi-bo.md)
+
 ##### [v3.23.1122.2]()
 
 - ✨: Tách ghi nhận log riêng giữa checkIn và hosoKcb ![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb02.png)
