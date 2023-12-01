@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1201.1]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.23.1130.2]()
 
 - ✨: Thêm chức năng phân loại chi phí nội bộ trên danh mục cận lâm sàng [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/FEES/Hau-quan-ly-loai-chi-phi-noi-bo.md)![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-00.png)![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-01.png)
