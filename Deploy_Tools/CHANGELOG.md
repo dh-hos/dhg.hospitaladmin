@@ -2,6 +2,14 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1209.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/186>
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/185>
+- ✨: Bổ sung Control trên Form danh mục CLS cập nhật giá trị cột dmcls.maicd9 (tương ứng cột [Mã ICD-9] phụ lục 3 QĐ 4440)
+- ✨: Mở rộng form danh mục cận lâm sàng cho phép cập nhật [Mã chỉ số] và [Tên chỉ số] đối với kho: HA (chẩn đoán hình ảnh) và CN (Thăm dò chức năng).
+- ✨: Cho phép thêm mới, thay đổi nhãn “Mã Medisoft” thành “Mã BYT” trên form [Danh mục kết quả điều trị]
+
 ##### [v3.23.1201.1]()
 
 -  âœ¨:

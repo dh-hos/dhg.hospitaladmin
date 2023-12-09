@@ -129,3 +129,9 @@
 - ✨: Tách ghi nhận log riêng giữa checkIn và hosoKcb ![Alt text](../MoTaThayDoi/HuongDan/QD130/hosokcb02.png) [OK]
 >
 - ✨: Thêm chức năng phân loại chi phí nội bộ trên danh mục cận lâm sàng [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/FEES/Hau-quan-ly-loai-chi-phi-noi-bo.md)![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-00.png)![Alt text](../MoTaThayDoi/HuongDan/CPNoibo/cpnoibo-01.png) [OK]
+>
+- ✨: Cho phép thêm mới, thay đổi nhãn “Mã Medisoft” thành “Mã BYT” trên form [Danh mục kết quả điều trị] [OK]
+- ✨: Mở rộng form danh mục cận lâm sàng cho phép cập nhật [Mã chỉ số] và [Tên chỉ số] đối với kho: HA (chẩn đoán hình ảnh) và CN (Thăm dò chức năng). [OK]
+- ✨: Bổ sung Control trên Form danh mục CLS cập nhật giá trị cột dmcls.maicd9 (tương ứng cột [Mã ICD-9] phụ lục 3 QĐ 4440) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/185> [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/186> [OK]
